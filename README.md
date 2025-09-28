@@ -1,4 +1,4 @@
-# Scorpions - A Robot for Solving 3x3 Rubik's Cubes
+# A Robot for Solving 3x3 Rubik's Cubes
 
 * We implement data structures and algorithms for solving cubes based on the [CFOP](https://en.wikipedia.org/wiki/CFOP_method) method. The implementation is stored in the [RubikAlgorithm](https://github.com/phamvannhatvu/Scorpions/tree/main/CLI/RubikAlgorithm) folder.
 
